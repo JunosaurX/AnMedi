@@ -1,0 +1,228 @@
+{
+    "drugs": [
+      {
+        "name": "Aspirin",
+        "description": "Aspirin is used to reduce fever and inflammation.",
+        "side_effects": "Stomach pain, nausea",
+        "dosage": "300mg to 1000mg, every 4 to 6 hours",
+        "uses": "Pain relief, fever reducer, anti-inflammatory"
+      },
+      {
+        "name": "Atorvastatin",
+        "description": "Atorvastatin is used to lower cholesterol and reduce the risk of heart disease.",
+        "side_effects": "Muscle pain, liver damage",
+        "dosage": "10mg to 80mg daily",
+        "uses": "Lower cholesterol, reduce heart disease risk"
+      },
+      {
+        "name": "Azithromycin",
+        "description": "Azithromycin is an antibiotic used to treat bacterial infections.",
+        "side_effects": "Diarrhea, nausea, stomach pain",
+        "dosage": "250mg to 500mg daily",
+        "uses": "Bacterial infections"
+      },
+      {
+        "name": "Ciprofloxacin",
+        "description": "Ciprofloxacin is an antibiotic used to treat a variety of bacterial infections.",
+        "side_effects": "Nausea, diarrhea, headache",
+        "dosage": "250mg to 750mg every 12 hours",
+        "uses": "Bacterial infections"
+      },
+      {
+        "name": "Clonazepam",
+        "description": "Clonazepam is used to prevent and control seizures and panic attacks.",
+        "side_effects": "Drowsiness, dizziness, memory problems",
+        "dosage": "0.25mg to 1mg daily",
+        "uses": "Seizures, panic disorder"
+      },
+      {
+        "name": "Diazepam",
+        "description": "Diazepam is used to treat anxiety, muscle spasms, and seizures.",
+        "side_effects": "Drowsiness, dizziness, tiredness",
+        "dosage": "2mg to 10mg daily",
+        "uses": "Anxiety, muscle spasms, seizures"
+      },
+      {
+        "name": "Doxycycline",
+        "description": "Doxycycline is an antibiotic used to treat infections and prevent malaria.",
+        "side_effects": "Nausea, diarrhea, sensitivity to sunlight",
+        "dosage": "100mg to 200mg daily",
+        "uses": "Bacterial infections, malaria prevention"
+      },
+      {
+        "name": "Enalapril",
+        "description": "Enalapril is used to treat high blood pressure and heart failure.",
+        "side_effects": "Dizziness, headache, dry cough",
+        "dosage": "2.5mg to 40mg daily",
+        "uses": "High blood pressure, heart failure"
+      },
+      {
+        "name": "Esomeprazole",
+        "description": "Esomeprazole is used to treat gastroesophageal reflux disease (GERD) and other stomach acid-related conditions.",
+        "side_effects": "Headache, diarrhea, nausea",
+        "dosage": "20mg to 40mg daily",
+        "uses": "GERD, acid reflux"
+      },
+      {
+        "name": "Fluoxetine",
+        "description": "Fluoxetine is used to treat depression, panic attacks, and other mental health conditions.",
+        "side_effects": "Nausea, insomnia, sexual dysfunction",
+        "dosage": "10mg to 40mg daily",
+        "uses": "Depression, anxiety, panic attacks"
+      },
+      {
+        "name": "Gabapentin",
+        "description": "Gabapentin is used to treat seizures and nerve pain.",
+        "side_effects": "Drowsiness, dizziness, swelling",
+        "dosage": "100mg to 800mg daily",
+        "uses": "Seizures, nerve pain"
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "description": "Hydrochlorothiazide is used to treat high blood pressure and fluid retention.",
+        "side_effects": "Dizziness, headache, low potassium levels",
+        "dosage": "12.5mg to 50mg daily",
+        "uses": "High blood pressure, edema"
+      },
+      {
+        "name": "Ibuprofen",
+        "description": "Ibuprofen is used to reduce fever and inflammation.",
+        "side_effects": "Nausea, headache, stomach pain",
+        "dosage": "200mg to 400mg every 4 to 6 hours",
+        "uses": "Pain relief, fever reducer, anti-inflammatory"
+      },
+      {
+        "name": "Insulin",
+        "description": "Insulin is used to control blood sugar levels in people with diabetes.",
+        "side_effects": "Low blood sugar, weight gain",
+        "dosage": "Injected according to blood sugar levels",
+        "uses": "Diabetes management"
+      },
+      {
+        "name": "Lisinopril",
+        "description": "Lisinopril is used to treat high blood pressure and heart failure.",
+        "side_effects": "Dizziness, cough, headache",
+        "dosage": "10mg to 40mg daily",
+        "uses": "High blood pressure, heart failure"
+      },
+      {
+        "name": "Lorazepam",
+        "description": "Lorazepam is used to treat anxiety and seizures.",
+        "side_effects": "Drowsiness, dizziness, blurred vision",
+        "dosage": "0.5mg to 2mg daily",
+        "uses": "Anxiety, seizures"
+      },
+      {
+        "name": "Metformin",
+        "description": "Metformin is used to control blood sugar levels in people with type 2 diabetes.",
+        "side_effects": "Stomach upset, diarrhea, lactic acidosis (rare)",
+        "dosage": "500mg to 1000mg, twice a day",
+        "uses": "Type 2 diabetes management"
+      },
+      {
+        "name": "Methylprednisolone",
+        "description": "Methylprednisolone is used to treat inflammation and conditions such as allergies and arthritis.",
+        "side_effects": "Increased appetite, weight gain, insomnia",
+        "dosage": "4mg to 48mg daily",
+        "uses": "Inflammation, autoimmune conditions"
+      },
+      {
+        "name": "Morphine",
+        "description": "Morphine is used to treat moderate to severe pain.",
+        "side_effects": "Drowsiness, constipation, nausea",
+        "dosage": "2mg to 10mg every 4 hours",
+        "uses": "Severe pain relief"
+      },
+      {
+        "name": "Naproxen",
+        "description": "Naproxen is used to reduce inflammation, pain, and fever.",
+        "side_effects": "Nausea, headache, stomach pain",
+        "dosage": "250mg to 500mg every 12 hours",
+        "uses": "Pain relief, anti-inflammatory"
+      },
+      {
+        "name": "Omeprazole",
+        "description": "Omeprazole is used to treat gastroesophageal reflux disease (GERD) and stomach ulcers.",
+        "side_effects": "Headache, diarrhea, nausea",
+        "dosage": "20mg to 40mg daily",
+        "uses": "GERD, stomach ulcers"
+      },
+      {
+        "name": "Oxycodone",
+        "description": "Oxycodone is used to treat moderate to severe pain.",
+        "side_effects": "Drowsiness, constipation, nausea",
+        "dosage": "5mg to 10mg every 4 to 6 hours",
+        "uses": "Pain relief"
+      },
+      {
+        "name": "Prednisone",
+        "description": "Prednisone is used to treat inflammation and immune system disorders.",
+        "side_effects": "Weight gain, fluid retention, mood changes",
+        "dosage": "5mg to 60mg daily",
+        "uses": "Inflammation, autoimmune diseases"
+      },
+      {
+        "name": "Propranolol",
+        "description": "Propranolol is used to treat high blood pressure, anxiety, and prevent heart attacks.",
+        "side_effects": "Dizziness, fatigue, slow heart rate",
+        "dosage": "40mg to 160mg daily",
+        "uses": "High blood pressure, anxiety, heart attack prevention"
+      },
+      {
+        "name": "Ramipril",
+        "description": "Ramipril is used to treat high blood pressure and heart failure.",
+        "side_effects": "Dizziness, headache, cough",
+        "dosage": "2.5mg to 10mg daily",
+        "uses": "High blood pressure, heart failure"
+      },
+      {
+        "name": "Ranitidine",
+        "description": "Ranitidine is used to treat stomach ulcers and GERD.",
+        "side_effects": "Headache, constipation, dizziness",
+        "dosage": "150mg to 300mg daily",
+        "uses": "GERD, stomach ulcers"
+      },
+      {
+        "name": "Simvastatin",
+        "description": "Simvastatin is used to lower cholesterol and reduce the risk of heart disease.",
+        "side_effects": "Muscle pain, liver damage",
+        "dosage": "10mg to 40mg daily",
+        "uses": "Lower cholesterol, reduce heart disease risk"
+      },
+      {
+        "name": "Spironolactone",
+        "description": "Spironolactone is used to treat high blood pressure, fluid retention, and hormonal imbalances.",
+        "side_effects": "Dizziness, headache, high potassium levels",
+        "dosage": "25mg to 100mg daily",
+        "uses": "High blood pressure, fluid retention"
+      },
+      {
+        "name": "Tramadol",
+        "description": "Tramadol is used to treat moderate to severe pain.",
+        "side_effects": "Drowsiness, nausea, constipation",
+        "dosage": "50mg to 100mg every 4 to 6 hours",
+        "uses": "Pain relief"
+      },
+      {
+        "name": "Warfarin",
+        "description": "Warfarin is used to prevent blood clots in people with certain conditions.",
+        "side_effects": "Bleeding, bruising, nausea",
+        "dosage": "2mg to 10mg daily",
+        "uses": "Blood clot prevention"
+      },
+      {
+        "name": "Xanax",
+        "description": "Xanax is used to treat anxiety and panic disorders.",
+        "side_effects": "Drowsiness, dizziness, memory problems",
+        "dosage": "0.25mg to 4mg daily",
+        "uses": "Anxiety, panic disorder"
+      },
+      {
+        "name": "Zoloft",
+        "description": "Zoloft is used to treat depression, anxiety, and panic attacks.",
+        "side_effects": "Nausea, insomnia, sexual dysfunction",
+        "dosage": "25mg to 200mg daily",
+        "uses": "Depression, anxiety, panic attacks"
+      }
+    ]
+  }

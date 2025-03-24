@@ -1,0 +1,38 @@
+name: my_drug_info_app
+description: "drug dictionary app"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  sqflite: ^2.0.0+4
+  path: ^1.8.1
+  path_provider: ^2.0.11
+  url_launcher: ^6.1.14
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: ^2.0.11
+  flip_card: ^0.6.0  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/drug_info.json
+    - assets/chinesemed_info.json
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.PNG" 

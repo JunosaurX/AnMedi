@@ -1,0 +1,180 @@
+{
+    "drugs": [
+      {
+        "name": "Ginseng",
+        "chinese_name": "人参",
+        "description": "Used to tonify Qi, nourish blood, and enhance immunity.",
+        "side_effects": "May cause insomnia, high blood pressure",
+        "dosage": "3-9g",
+        "uses": "Energy booster, immune enhancer"
+      },
+      {
+        "name": "Astragalus",
+        "chinese_name": "黄芪",
+        "description": "Tonifies Qi and lifts Yang, enhances immunity.",
+        "side_effects": "May cause bloating or discomfort",
+        "dosage": "9-30g",
+        "uses": "Immune enhancer"
+      },
+      {
+        "name": "Angelica",
+        "chinese_name": "当归",
+        "description": "Nourishes blood, activates blood circulation, regulates menstruation, relieves pain.",
+        "side_effects": "May cause diarrhea or allergic reactions",
+        "dosage": "6-12g",
+        "uses": "Menstrual regulation, pain relief"
+      },
+      {
+        "name": "Chuanxiong",
+        "chinese_name": "川芎",
+        "description": "Activates blood, moves Qi, dispels wind, relieves pain.",
+        "side_effects": "May cause dizziness",
+        "dosage": "3-6g",
+        "uses": "Pain relief, wind dispelling"
+      },
+      {
+        "name": "Atractylodes",
+        "chinese_name": "白术",
+        "description": "Tonifies the spleen and Qi, dries dampness, promotes water metabolism.",
+        "side_effects": "May cause dry mouth",
+        "dosage": "6-15g",
+        "uses": "Spleen tonic, water metabolism"
+      },
+      {
+        "name": "Poria",
+        "chinese_name": "茯苓",
+        "description": "Promotes urination, drains dampness, tonifies the spleen and calms the mind.",
+        "side_effects": "May cause low blood pressure",
+        "dosage": "9-15g",
+        "uses": "Water metabolism, spleen tonic"
+      },
+      {
+        "name": "Licorice",
+        "chinese_name": "甘草",
+        "description": "Tonifies the spleen and Qi, clears heat, detoxifies.",
+        "side_effects": "Long-term use may cause high blood pressure",
+        "dosage": "3-9g",
+        "uses": "Spleen tonic, detoxification"
+      },
+      {
+        "name": "Goji Berry",
+        "chinese_name": "枸杞",
+        "description": "Nourishes the liver and kidney, improves vision.",
+        "side_effects": "Excessive use may cause heat symptoms.",
+        "dosage": "6-12g",
+        "uses": "Vision improvement, kidney tonic"
+      },
+      {
+        "name": "Polygonum Multiflorum",
+        "chinese_name": "何首乌",
+        "description": "Tonifies the liver and kidney, benefits essence and blood.",
+        "side_effects": "May cause liver damage",
+        "dosage": "3-12g",
+        "uses": "Liver and kidney tonic"
+      },
+      {
+        "name": "Mugwort",
+        "chinese_name": "艾叶",
+        "description": "Warms the meridians, stops bleeding, expels cold and relieves pain.",
+        "side_effects": "May cause skin allergies",
+        "dosage": "3-9g",
+        "uses": "Pain relief, cold dispelling"
+      },
+      {
+        "name": "Mint",
+        "chinese_name": "薄荷",
+        "description": "Dispels wind, releases heat, soothes the throat.",
+        "side_effects": "May cause allergies",
+        "dosage": "3-6g",
+        "uses": "Throat soothing, wind releasing"
+      },
+      {
+        "name": "Chrysanthemum",
+        "chinese_name": "菊花",
+        "description": "Clears heat and detoxifies, enhances vision.",
+        "side_effects": "May cause allergies",
+        "dosage": "3-10g",
+        "uses": "Detoxification, vision improvement"
+      },
+      {
+        "name": "Achyranthes",
+        "chinese_name": "牛膝",
+        "description": "Activates blood circulation, supplements the liver and kidney.",
+        "side_effects": "Prohibited for pregnant women",
+        "dosage": "6-12g",
+        "uses": "Liver and kidney tonic"
+      },
+      {
+        "name": "Pinellia",
+        "chinese_name": "半夏",
+        "description": "Dries dampness, resolves phlegm, stops nausea and vomiting.",
+        "side_effects": "Toxic, needs proper processing",
+        "dosage": "3-9g",
+        "uses": "Phlegm resolving, nausea relief"
+      },
+      {
+        "name": "Ophiopogon",
+        "chinese_name": "麦冬",
+        "description": "Nourishes Yin, moistens the lungs, generates body fluids.",
+        "side_effects": "May cause diarrhea",
+        "dosage": "6-15g",
+        "uses": "Yin nourishing, lung moistening"
+      },
+      {
+        "name": "Anemarrhena",
+        "chinese_name": "知母",
+        "description": "Clears heat and drains fire, nourishes Yin, moistens dryness.",
+        "side_effects": "May cause stomach coldness",
+        "dosage": "6-12g",
+        "uses": "Heat clearing, Yin nourishing"
+      },
+      {
+        "name": "Coptis",
+        "chinese_name": "黄连",
+        "description": "Clears heat and dries dampness, clears fire and detoxifies.",
+        "side_effects": "May cause stomach coldness, diarrhea",
+        "dosage": "2-5g",
+        "uses": "Heat clearing, detoxifying"
+      },
+      {
+        "name": "Dendrobium",
+        "chinese_name": "石斛",
+        "description": "Nourishes Yin, clears heat, generates body fluids.",
+        "side_effects": "May cause diarrhea",
+        "dosage": "6-12g",
+        "uses": "Yin nourishing, heat clearing"
+      },
+      {
+        "name": "Schisandra",
+        "chinese_name": "五味子",
+        "description": "Astringes, nourishes Qi, generates body fluids.",
+        "side_effects": "May cause stomach discomfort",
+        "dosage": "3-6g",
+        "uses": "Qi tonifying, body fluid generation"
+      },
+      {
+        "name": "Antler",
+        "chinese_name": "鹿茸",
+        "description": "Tonifies kidney Yang, strengthens blood and essence.",
+        "side_effects": "May cause high blood pressure",
+        "dosage": "1-3g",
+        "uses": "Kidney tonic, blood enhancer"
+      },
+      {
+        "name": "Cordyceps",
+        "chinese_name": "冬虫夏草",
+        "description": "Tonifies the lungs and kidneys, stops bleeding, resolves phlegm.",
+        "side_effects": "May cause dry mouth",
+        "dosage": "3-9g",
+        "uses": "Lung and kidney tonic"
+      },
+      {
+        "name": "Seahorse",
+        "chinese_name": "海马",
+        "description": "Tonifies kidney Yang, activates Qi, promotes blood circulation.",
+        "side_effects": "May cause allergic reactions",
+        "dosage": "3-6g",
+        "uses": "Kidney Yang tonic"
+      }
+    ]
+  }
