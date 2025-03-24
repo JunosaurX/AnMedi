@@ -10,7 +10,7 @@
 **✅ Available for Android**  
 Currently, AnMedi is only available for **Android** users.  
 
-📥 **[Download AnMedi.apk](#)**  
+📥 Download AnMedi.apk 
 
 ## 🎯 **Who is this app for?**  
 - **Medical students** 📚  
