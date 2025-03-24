@@ -45,3 +45,13 @@ app.*.map.json
 /android/app/release
 # Ignore the .env file to prevent sensitive data from being pushed
 .env
+# Flutter build and generated files
+build/
+.dart_tool/
+.flutter-plugins/
+.flutter-plugins-dependencies/
+.packages
+pubspec.lock
+.idea/
+ios/Pods/
+android/.gradle/
