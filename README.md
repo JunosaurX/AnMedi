@@ -1,16 +1,34 @@
-# my_drug_info_app
+# AnMedi
 
-A new Flutter project.
+# AnMedi 📖💊  
 
-## Getting Started
+**AnMedi** is a **drug dictionary and study app** designed for **students** and **anyone interested in medicine**. It provides detailed drug information and flashcards to help users learn about different medicines.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📲 **Availability**  
+**✅ Available for Android**  
+Currently, AnMedi is only available for **Android** users.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📥 **[Download AnMedi.apk](#)**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 **Who is this app for?**  
+- **Medical students** 📚  
+- **Pharmacists** 💊  
+- **Healthcare professionals** 🏥  
+- **Anyone interested in medicine** 👩‍⚕️👨‍⚕️  
+
+---
+
+## 🚀 **Features**  
+✅ **Western & Chinese Medicine Database** 🏥  
+✅ **Search for Drugs & View Details** 🔍  
+✅ **Flashcards for Studying** 📖  
+✅ **Multiple-Choice Tests** ✅  
+
+More updates coming soon! Stay tuned. 📢  
+
+---
+
+## 📩 **Contact**  
+For any issues or feedback, feel free to open an **issue** or contact us.  
